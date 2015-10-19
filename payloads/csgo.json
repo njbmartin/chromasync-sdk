@@ -1,0 +1,26 @@
+{
+    "product": {
+        "name": "Counter-Strike: Global Offensive",
+        "appid": "----------"
+    },
+    "player": {
+        "steamid": "76543210123456",
+        "status": "game",
+        "team": "CT",
+        "health": 0,
+        "armor": 78,
+        "helmet": true,
+        "wpn_type": "primary",
+        "ammo": 30,
+        "money": 800,
+        "round": "live",
+        "round_win_team": "none",
+        "round_win_act": "none",
+        "round_kills": 2,
+        "countdown": 0
+    },
+    "previously": {
+        "health": 100,
+        "armor": 100
+    }
+}
