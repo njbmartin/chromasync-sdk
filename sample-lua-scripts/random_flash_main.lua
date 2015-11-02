@@ -4,7 +4,7 @@ local Thread = clr.System.Threading.Thread
 function play_anim()
 	while true do
 		-- Everthing should be white (strobe effect!!!!)
-		c = Colore.Color.Purple
+		c = Colore.Color.White
 		-- set keyboard colour
 		Colore.Keyboard.Instance.SetPosition(math.random(0,5), math.random(1,18), c, true)
 		-- set mousepad colour
