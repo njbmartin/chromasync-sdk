@@ -1,10 +1,6 @@
 # ChromaSync SDK
 
-### What is Chroma Sync?
-
 Chroma Sync is the easiest way to sync games and apps, and create beautiful and reactive lighting effects.
-
-### So what's the SDK?
 
 The SDK provides a means of interacting with Chroma Sync in a relatively simple manner either via the documented API or via Lua scripts.
 
