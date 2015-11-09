@@ -2,7 +2,7 @@
 
 Chroma Sync is the easiest way to sync games and apps, and create beautiful and reactive lighting effects.
 
-The SDK provides a means of interacting with Chroma Sync in a relatively simple manner either via the documented API or via Lua scripts.
+The SDK provides a means of interacting with Chroma Sync in a relatively simple manner either via the simple API or via Lua scripts.
 
 ##Main Features
 
@@ -21,3 +21,5 @@ It works like so:
 1. A Game/Application can send data to Chroma Sync via an API
 2. In order for the data to be consumed, a Lua script must register to receive the data
 3. Lua script consumes the data and is responsible for the lighting effects
+
+Note that Lua scripts can also work independently, and is perfect for those who want to create totally custom lighting effects/animations.
