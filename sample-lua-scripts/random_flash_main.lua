@@ -10,14 +10,14 @@ function play_anim()
 		Keyboard.SetPosition(math.random(0,5), math.random(1,18), c, true)
 		-- set mousepad colour
 		Mousepad.SetAll(background)
-		Mousepad[math.random(0,14)] = c
-		Mousepad[math.random(0,14)] = c
-		Mousepad[math.random(0,14)] = c
+		Mousepad[math.random(0,15)] = c
+		Mousepad[math.random(0,15)] = c
+		Mousepad[math.random(0,15)] = c
 		-- set mouse colour
 		Mouse.SetAll(background)
-		Mouse[math.random(0,17)] = c
-		Mouse[math.random(0,17)] = c
-		Mouse[math.random(0,17)] = c
+		Mouse[math.random(0,9), math.random(0,7)] = c
+		Mouse[math.random(0,9), math.random(0,7)] = c
+		Mouse[math.random(0,9), math.random(0,7)] = c
 	
 		-- set keypad colour
 		Keypad.SetAll(background)
