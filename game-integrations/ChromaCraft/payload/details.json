@@ -1,0 +1,27 @@
+{
+   "product":{
+      "name":"ChromaCraft",
+      "author":"KeithM",
+      "description":"Provides visual feedback for in-game Minecraft events",
+      "version":"1.3.0",
+      "type":"Game"
+   },
+   "installation":[
+      {
+         "action":"extract",
+         "folder": "mod",
+         "destination": {
+               "type": "folder",
+               "folder": "%appdata%\\.minecraft\\mods"
+         }
+      },
+      {
+         "action":"extract",
+         "folder": "scripts",
+         "destination": {
+               "type": "folder",
+               "folder": "%appdata%\\ChromaSync\\scripts"
+         }
+      }
+   ]
+}

@@ -1,0 +1,27 @@
+{
+   "product":{
+      "name":"CS:GO Chromatic",
+      "author":"Razer Official",
+      "description":"Provides awesome effects for CSGO",
+      "version":"1.1",
+      "type":"Game"
+   },
+   "installation":[
+      {
+         "action":"extract",
+         "folder":"config",
+         "destination":{
+            "type":"steamapp",
+            "folder":"Counter-Strike Global Offensive"
+         }
+      },
+      {
+         "action":"extract",
+         "folder": "scripts",
+         "destination": {
+               "type": "folder",
+               "folder": "%appdata%\\ChromaSync\\scripts"
+         }
+      }
+   ]
+}
