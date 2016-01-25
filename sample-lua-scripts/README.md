@@ -12,4 +12,4 @@ Lua scripts live within the `%appdata%\ChromaSync\scripts` folder. Chroma Sync w
 
 ## Issues
 
-If Chroma Sync runs into any problems - including lua scripts - all errors are logged to `%appdata%`\ChromaSync\logs`. Please note that it may not be able to provide the specific issue, but most errors tend to be simple spelling or syntax mistakes.
+If Chroma Sync runs into any problems - including lua scripts - all errors are logged to `%appdata%\ChromaSync\logs`. Please note that it may not be able to provide the specific issue, but most errors tend to be simple spelling or syntax mistakes.
